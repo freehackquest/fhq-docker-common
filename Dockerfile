@@ -1,4 +1,4 @@
-FROM debian:10.0
+FROM debian:10
 
 LABEL "maintainer"="FreeHackQuest Team <freehackquest@gmail.com>"
 LABEL "repository"="https://github.com/freehackquest/fhq-docker-common"
